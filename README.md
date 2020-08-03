@@ -1,6 +1,6 @@
 # A small shopping cart app using [React.js](https://reactjs.org)
 
-**This is an app that reflects adding, removing, resetting and deleting a list of items on the shopping cart .**
+**This is an app that mimics shopping cars functionalities like adding, removing, resetting, and deleting a list of items.**
 
 ## Live URL :-
 
