@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import NavBar from "./components/navbar";
 import Counters from "./components/counters";
 
+// Create App class component instead of stateless component
 class App extends Component {
   state = {
     counters: [
