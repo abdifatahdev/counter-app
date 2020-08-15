@@ -3,13 +3,14 @@ import Counter from "./counter";
 
 class Counters extends Component {
   render() {
+    // Destructure props for readability
     const {
       onReset,
       onIncrement,
       onDelete,
       onDecrement,
       counters,
-      onRestart
+      onRestart,
     } = this.props;
     return (
       <div>
